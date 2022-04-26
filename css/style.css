@@ -1,0 +1,146 @@
+.about{
+    background-image: url(../images/image\ 5.jpg )
+}
+.about h2{
+font-family: cursive;
+font-weight: 600;
+text-decoration: underline cyan;
+text-transform: capitalize;
+color:chocolate ;
+
+}
+.about p{
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 3px;
+    color: azure;
+}
+
+.about img{
+    min-height: 30vh;
+}
+
+.cards img{
+height: 300px;
+}
+.cards p{
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 3px;
+    color: gray;
+}
+.cards h5{
+    font-family: cursive;
+    font-weight: 600;
+    text-decoration: underline cyan;
+    text-transform: capitalize;
+    color:chocolate ;
+}
+.ed-back{
+    background-color: limegreen;
+}
+.ed-back h2{
+    font-family: cursive;
+font-weight: 600;
+text-decoration: underline cyan;
+text-transform: capitalize;
+color:chocolate ;
+}
+.ed-back p{
+    
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 3px;
+    color: gray;
+}
+.skills{
+    background-color: yellow;
+}
+.skills h2{
+    font-family: cursive;
+    font-weight: 600;
+    text-decoration: underline cyan;
+    text-transform: capitalize;
+    color:chocolate ;
+}
+.skills h5{
+    font-family: cursive;
+    font-weight: 600;
+    text-decoration: underline cyan;
+    text-transform: capitalize;
+    color:chocolate ;
+}
+.skills p{
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 3px;
+    color: gray
+}
+.hobbies{
+    background-image: url(../images/image\ 4.jpg);
+}
+.hobbies h2{
+    font-family: cursive;
+    font-weight: 600;
+    text-decoration: underline cyan;
+    text-transform: capitalize;
+    color: cyan ;
+}
+.hobbies h5{
+    font-family: cursive;
+    font-weight: 600;
+    text-decoration: underline cyan;
+    text-transform: capitalize;
+    color:chocolate ;
+}
+.hobbies p{
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 3px;
+    color: gray
+}
+.connect h2{
+    font-family: cursive;
+    font-weight: 600;
+    text-decoration: underline cyan;
+    text-transform: capitalize;
+    color: chocolate; 
+}
+.projects{
+    background-color: darkorchid;
+}
+.projects img{
+height: 500px;
+width: 600px;
+}
+.projects h2{
+
+  font-family: cursive;
+    font-weight: 600;
+    text-decoration: underline cyan;
+    text-transform: capitalize;
+    color: chocolate; 
+}
+.projects p{
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 3px;
+    color: azure
+}
+.connect{
+    background-color:darkturquoise ;
+}
+.home-slider img{
+    height:fit-content!important;
+}/* Credits section */
+.credits{
+    background-color: orange;
+    padding: 30px;
+    color: white;
+    font-size: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+   
+   
+   }
+   .credits:hover{
+   transform: unset;
+   transition: ease-in-out 10ms;
+   }
